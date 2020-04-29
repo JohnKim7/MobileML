@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>197341649953-pcbt6lvn6k5kgt190o24u8l79pbb7he1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.197341649953-pcbt6lvn6k5kgt190o24u8l79pbb7he1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDqQkiGaVJa6vSbI4b28L5zXkdSuVLWyY4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>197341649953</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ml.univ.app</string>
+	<key>PROJECT_ID</key>
+	<string>univ-98eed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>univ-98eed.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:197341649953:ios:08d85ef28fb06d3a475760</string>
+	<key>DATABASE_URL</key>
+	<string>https://univ-98eed.firebaseio.com</string>
+</dict>
+</plist>
